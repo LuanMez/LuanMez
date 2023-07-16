@@ -1,3 +1,3 @@
-### Olá! Eu sou o Luan Moreira
+### Olá! Eu sou o Luan Moreira 👋
 
-- Estudante da Faeterj-Rio
+- Estou cursando Análise e Desenvolvimento de Sistemas na Faeterj-Rio
