@@ -7,6 +7,7 @@ Cursando Análise e Desenvolvimento de Sistemas na Faeterj-Rio
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198018098391/)
 
 ![LuanMez GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMez&show_icons=true&theme=highcontrast)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMez&layout=compact&theme=highcontrast)
 
 ## Tecnologias que eu uso no meu dia
